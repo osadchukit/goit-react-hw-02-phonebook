@@ -31,6 +31,7 @@ npm install react-icons --save
 import { FaMapMarkerAlt } from 'react-icons/fa';
 
 <!-- ----------------------------------------- -->
+
 INSTALL
 npx create-react-app my-app .
 npm install --save prop-types
