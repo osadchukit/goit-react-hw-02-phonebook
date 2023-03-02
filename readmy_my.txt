@@ -32,7 +32,31 @@ import { FaMapMarkerAlt } from 'react-icons/fa';
 
 <!-- ----------------------------------------- -->
 
+instal nanoid: https://www.npmjs.com/package/nanoid
+npm i nanoid
+
+import { nanoid } from 'nanoid'
+model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
+
+<!-- ----------------------------------------- -->
+
+instal formik: https://formik.org/docs/overview
+npm install formik --save
+
+import { Formik, Form, Field, ErrorMessage  } from 'formik';
+
+<!-- ----------------------------------------- -->
+
+instal shortid: https://www.npmjs.com/package/shortid
+npm i shortid
+
+import shortid from 'shortid';
+
+<!-- ----------------------------------------- -->
+
 INSTALL
 npx create-react-app my-app .
 npm install --save prop-types
 npm i @emotion/styled @emotion/react
+npm i nanoid
+npm install formik --save
