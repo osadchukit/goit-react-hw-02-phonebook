@@ -42,6 +42,7 @@ model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
 
 instal formik: https://formik.org/docs/overview
 npm install formik --save
+npm install yup --save
 
 import { Formik, Form, Field, ErrorMessage  } from 'formik';
 
